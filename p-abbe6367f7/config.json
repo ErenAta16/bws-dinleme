@@ -1,0 +1,9 @@
+{
+  "study_id": "bws-v1-pilot",
+  "endpoint": "https://script.google.com/macros/s/AKfycbzvvCZTXt_9ZRL3mr_LFFeaDx_9YQHlZ0hJDz1ReKflzB4QJzK0_pOxmBYlYEeuB0-h/exec",
+  "trials_url": "trials.json",
+  "consent_url": "consent.tr.html",
+  "consent_version": "v1",
+  "min_listen_ratio": 0.95,
+  "send_mode": "text"
+}
